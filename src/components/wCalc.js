@@ -1,6 +1,7 @@
 // wCalc.js
 
 import './styles/wCalc.css';
+import Calc from './Calculator';
 
 function WebCalc() {
   return (
@@ -9,7 +10,7 @@ function WebCalc() {
         Try our nice calculator!
       </h2>
       <div className="calc">
-        <h1>Here goes the Calc</h1>
+        <Calc />
       </div>
     </div>
   );

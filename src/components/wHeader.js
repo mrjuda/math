@@ -6,8 +6,15 @@ function WebHeader() {
   return (
     <div className="WebHeader">
       <h1 className="HeaderTitle">
-        Math Magicians: Here goes the header
+        Math Magicians
       </h1>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li>|</li>
+        <li><a href="/WebCalc">Calculator</a></li>
+        <li>|</li>
+        <li><a href="/WebQuote">Quote</a></li>
+      </ul>
     </div>
   );
 }
