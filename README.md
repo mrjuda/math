@@ -3,9 +3,13 @@
 **Build v2.1**
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Phase4
 =======
 >>>>>>> feature/setup-test
+=======
+Phase2
+>>>>>>> feature/phase2
 
 This is a React project for educational purposes only.
 The Math Magicians project was built using ReactJS, SCSS, HTML, and tested through Jest.
